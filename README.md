@@ -9,8 +9,9 @@
 <a href="README.md" style="font-size: 24px">English</a>
 </div>
 
-## The repository history has been reset. Please delete your local copy and re-clone.
-## （仓库历史已重置。请删除本地副本并重新克隆。）
+## Backup
+
+A backup of https://github.com:X-School-Academy/extension-index-tts.git for education
 
 ## 👉🏻 IndexTTS2 👈🏻
 
