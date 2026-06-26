@@ -11,7 +11,7 @@
 
 ## Backup
 
-A backup of https://github.com:X-School-Academy/extension-index-tts.git for education
+A backup of https://github.com/index-tts/index-tts.git for education
 
 ## 👉🏻 IndexTTS2 👈🏻
 
